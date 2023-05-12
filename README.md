@@ -12,7 +12,7 @@
 - Airports have unique IDs and names.
 - Airlines have pilots, and each pilot has a level of experience.
 - An aircraft type may need a certain number of pilots.
-- Draw the Class diagram describing this system.
+Draw the Class diagram describing this system.
 
 
 ![uml_design](https://i.hizliresim.com/sh3ozma.png)
