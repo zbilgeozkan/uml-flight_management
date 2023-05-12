@@ -1,7 +1,8 @@
 # Flight Management System Class Diagram
-Uçuş Yönetim Sistemi - UML
+## Uçuş Yönetim Sistemi - UML
 
-- ### Design a system for the management of flights and pilots.
+
+### Design a system for the management of flights and pilots.
 
 - Airlines operate the flights. Every airline has an identity.
 - The airline has different types of aircraft.
